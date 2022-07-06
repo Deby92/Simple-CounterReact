@@ -1,4 +1,4 @@
-@import '~bootstrap/scss/bootstrap.scss';
+/* @import '~bootstrap/scss/bootstrap.scss'; */
 
 .bigCounter {
     text-align: center;
@@ -9,8 +9,10 @@
     background-color: black;
     font-size: 80px;
     border: 2px solid yellowgreen;
-    height: 80px;
-    padding: 10px;
+    width: 100px;
+    height: 150px;
+    margin-top: 20px;
+    padding: 7px;
     color: salmon;
     border-radius: 30px;
 }
